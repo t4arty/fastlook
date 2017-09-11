@@ -1,0 +1,889 @@
+{
+"response": {
+"count": 20464,
+"items": [{
+"id": 7105,
+"from_id": -34243230,
+"owner_id": -34243230,
+"date": 1457158284,
+"marked_as_ads": 0,
+"post_type": "post",
+"text": "Дорогие друзья хочу предложить вам великолепный автомобиль премиум класса крайслер 300с для проведения свадеб и торжественных мереприятий в Зеленограде и окрестностях а так же отвезут в аэропорт. Цены 2014 года 1000 руб/час. Звоните 8-916-446-10-25 Михаил",
+"is_pinned": 1,
+"attachments": [{
+"type": "photo",
+"photo": {
+"id": 404866602,
+"album_id": -7,
+"owner_id": -34243230,
+"user_id": 100,
+"photo_75": "https://pp.userap...44b/GX-wrH4yF-g.jpg",
+"photo_130": "https://pp.userap...44c/ubkaKm7k4kk.jpg",
+"photo_604": "https://pp.userap...44d/FMHabME4sGg.jpg",
+"width": 451,
+"height": 604,
+"text": "",
+"date": 1457158285,
+"post_id": 7105,
+"access_key": "9e7b0583d8dbe732cd"
+}
+}],
+"post_source": {
+"type": "vk"
+},
+"comments": {
+"count": 12,
+"groups_can_post": true,
+"can_post": 1
+},
+"likes": {
+"count": 31,
+"user_likes": 0,
+"can_like": 1,
+"can_publish": 1
+},
+"reposts": {
+"count": 4,
+"user_reposted": 0
+}
+}, {
+"id": 52568,
+"from_id": 15528503,
+"owner_id": -34243230,
+"date": 1505145218,
+"marked_as_ads": 0,
+"post_type": "post",
+"text": "АКВААЭРОБИКА в общих группах и в группе для БЕРЕМЕННЫХ!!!
+&#129303;Приглашаю всех желающих "беременЯшек" на АКВААЭРОБИКУ для БЕРЕМЕННЫХ!
+&#128205;Занимаемся в СК"Орбита" (г. Зеленоград, Озёрная аллея, д.6)
+&#10071;НИКАКИХ КЛУБНЫХ КАРТ и АБОНЕМЕНТОВ! 
+Оплачиваете по факту, непосредственно перед самим занятием. &#9757;Т.е. никакого выбрасывания денег на ветер!!!
+
+&#10004;Стоимость одного посещения - 450р.
+
+Чередуем занятия в мелком и глубоком бассейне.
+-Основная часть занятия направлена на укрепление мышц таза, спины, брюшного пресса и плечевого пояса.
+-Другая часть занятия выделяется на освоение дыхательных упражнений, которые необходимы в родах.
+Записаться и узнать дополнительную информацию можно по тел.: 8(926)880-77-61
+
+&#128293;А так же приглашаю в общие группы!
+&#128170;Занятия интенсивные, высокоэффективные, силовой направленности, нацелены на проработку всех основных групп мышц. 
+&#128170;Используем в занятиях разнообразный отягощающий инвентарь!
+&#9642;Стоимость занятия - 350р. 
+НИКАКИХ АБОНЕМЕНТОВ И КЛУБНЫХ КАРТ!
+Сколько занимаетесь, столько оплачиваете!
+
+P.S. Если хочешь узнать, что такое "вспотеть в воде", то приходи по расписанию (на фото) в СК "Орбита"!",
+"attachments": [{
+"type": "photo",
+"photo": {
+"id": 456271052,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 15528503,
+"photo_75": "https://pp.userap...d13/MmP5Zxd_PPM.jpg",
+"photo_130": "https://pp.userap...d14/vnddg2ptEe8.jpg",
+"photo_604": "https://pp.userap...d15/xUEACxNJ2zk.jpg",
+"photo_807": "https://pp.userap...d16/EEuXUOjdGHs.jpg",
+"width": 720,
+"height": 509,
+"text": "",
+"date": 1505145218,
+"access_key": "2bcb5c3015489adc10"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271053,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 15528503,
+"photo_75": "https://pp.userap...842/SP-XWBw9R9U.jpg",
+"photo_130": "https://pp.userap...843/NYOdEPo3Wrk.jpg",
+"photo_604": "https://pp.userap...844/CLkGi0n3ne4.jpg",
+"photo_807": "https://pp.userap...845/NsQ1wV6FXcw.jpg",
+"width": 636,
+"height": 370,
+"text": "",
+"date": 1505145218,
+"access_key": "52ee30c4f2acf47549"
+}
+}],
+"post_source": {
+"type": "api",
+"platform": "android"
+},
+"comments": {
+"count": 0,
+"groups_can_post": true,
+"can_post": 1
+},
+"likes": {
+"count": 0,
+"user_likes": 0,
+"can_like": 1,
+"can_publish": 0
+},
+"reposts": {
+"count": 0,
+"user_reposted": 0
+}
+}, {
+"id": 52567,
+"from_id": 22928532,
+"owner_id": -34243230,
+"date": 1505140946,
+"marked_as_ads": 0,
+"post_type": "post",
+"text": "Продам телефон Samsung Glaxy S4 I9505 16 гб. Полностью рабочий. Скол в правой нижней части экрана. Установлена MIUI OS. Без зарядки и наушников. Цена 4000 или предложения в личку. 89998643917",
+"attachments": [{
+"type": "photo",
+"photo": {
+"id": 456271047,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 22928532,
+"photo_75": "https://pp.userap...83b/qCyl4lmOiOw.jpg",
+"photo_130": "https://pp.userap...83c/1TZ24wIHuy4.jpg",
+"photo_604": "https://pp.userap...83d/rbN0b74tkdg.jpg",
+"photo_807": "https://pp.userap...83e/1vBSdMNbkMM.jpg",
+"photo_1280": "https://pp.userap...83f/U1UWlw56dCc.jpg",
+"photo_2560": "https://pp.userap...840/VhLkIXqXS0Q.jpg",
+"width": 1620,
+"height": 2160,
+"text": "",
+"date": 1505140945,
+"lat": 55.997782,
+"long": 37.225164,
+"access_key": "5ed478bc7fcfc40c7b"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271048,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 22928532,
+"photo_75": "https://pp.userap...845/kBNej1OzPWY.jpg",
+"photo_130": "https://pp.userap...846/lVj05SPbftA.jpg",
+"photo_604": "https://pp.userap...847/uXKWVK3y0xo.jpg",
+"photo_807": "https://pp.userap...848/uGdo0G-Cq-A.jpg",
+"photo_1280": "https://pp.userap...849/I0XfJJMBYX4.jpg",
+"photo_2560": "https://pp.userap...84a/FFE8ejeKCQk.jpg",
+"width": 1620,
+"height": 2160,
+"text": "",
+"date": 1505140945,
+"lat": 55.997781,
+"long": 37.225387,
+"access_key": "1605075eaa65ebe9eb"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271049,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 22928532,
+"photo_75": "https://pp.userap...84f/aoDvVjxO9B4.jpg",
+"photo_130": "https://pp.userap...850/dLK7gU3bHW4.jpg",
+"photo_604": "https://pp.userap...851/TwxMMFUox0w.jpg",
+"photo_807": "https://pp.userap...852/YNcv7AoU_T4.jpg",
+"photo_1280": "https://pp.userap...853/VHMnmg-6tUk.jpg",
+"photo_2560": "https://pp.userap...854/Suep2f0zMUA.jpg",
+"width": 1620,
+"height": 2160,
+"text": "",
+"date": 1505140945,
+"lat": 55.997781,
+"long": 37.225387,
+"access_key": "c97fa4263782df72fc"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271050,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 22928532,
+"photo_75": "https://pp.userap...859/eoEVHiTnNmc.jpg",
+"photo_130": "https://pp.userap...85a/cNjf0U4tsHY.jpg",
+"photo_604": "https://pp.userap...85b/_UzOBO3tqY0.jpg",
+"photo_807": "https://pp.userap...85c/yw8GYFEoAIc.jpg",
+"photo_1280": "https://pp.userap...85d/2_-_f2Eik-w.jpg",
+"photo_2560": "https://pp.userap...85e/vfXZrU4iv6o.jpg",
+"width": 1620,
+"height": 2160,
+"text": "",
+"date": 1505140945,
+"lat": 55.997781,
+"long": 37.225387,
+"access_key": "f240dd99eced223741"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271051,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 22928532,
+"photo_75": "https://pp.userap...863/vRGT5U46gxM.jpg",
+"photo_130": "https://pp.userap...864/jI01_xDlEiM.jpg",
+"photo_604": "https://pp.userap...865/sgEAxgaht2U.jpg",
+"photo_807": "https://pp.userap...866/OHRqsPLYlhU.jpg",
+"photo_1280": "https://pp.userap...867/MlUgSmNSbbk.jpg",
+"photo_2560": "https://pp.userap...868/gx95luOLnN8.jpg",
+"width": 1620,
+"height": 2160,
+"text": "",
+"date": 1505140945,
+"lat": 55.997781,
+"long": 37.225387,
+"access_key": "46f440f0cfa87cbeec"
+}
+}],
+"post_source": {
+"type": "vk"
+},
+"comments": {
+"count": 0,
+"groups_can_post": true,
+"can_post": 1
+},
+"likes": {
+"count": 0,
+"user_likes": 0,
+"can_like": 1,
+"can_publish": 0
+},
+"reposts": {
+"count": 0,
+"user_reposted": 0
+}
+}, {
+"id": 52566,
+"from_id": 446376278,
+"owner_id": -34243230,
+"date": 1505140900,
+"marked_as_ads": 0,
+"post_type": "post",
+"text": "продам оригинальные мальборосы , красные и черные (в магазинах таких не найдете ) за ценой в ЛС",
+"attachments": [{
+"type": "photo",
+"photo": {
+"id": 456271042,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 446376278,
+"photo_75": "https://pp.userap...1d8/G0SsyY56_y4.jpg",
+"photo_130": "https://pp.userap...1d9/efQhpnVwOgE.jpg",
+"photo_604": "https://pp.userap...1da/39Vwxrltz4E.jpg",
+"photo_807": "https://pp.userap...1db/6xQsq6XDFBs.jpg",
+"photo_1280": "https://pp.userap...1dc/BQHMOn-nAlo.jpg",
+"photo_2560": "https://pp.userap...1dd/2plMpMCIkFk.jpg",
+"width": 1602,
+"height": 2160,
+"text": "",
+"date": 1505140900,
+"access_key": "d4dcbf17e8e0339e91"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271043,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 446376278,
+"photo_75": "https://pp.userap...d51/lhQmPMaKoiw.jpg",
+"photo_130": "https://pp.userap...d52/VR9kE4u9fOI.jpg",
+"photo_604": "https://pp.userap...d53/EngX72NoKjY.jpg",
+"photo_807": "https://pp.userap...d54/rs2hkNF1NSc.jpg",
+"photo_1280": "https://pp.userap...d55/YFh35SgZAGQ.jpg",
+"photo_2560": "https://pp.userap...d56/F-kUgKLtorU.jpg",
+"width": 1602,
+"height": 2160,
+"text": "",
+"date": 1505140900,
+"access_key": "e67651a17e8e22ab27"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271044,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 446376278,
+"photo_75": "https://pp.userap...202/jdJvGH7KAaI.jpg",
+"photo_130": "https://pp.userap...203/ZM2N3kgP_P0.jpg",
+"photo_604": "https://pp.userap...204/P4xC_Jbbcsc.jpg",
+"photo_807": "https://pp.userap...205/Zb6JbtOBAQU.jpg",
+"photo_1280": "https://pp.userap...206/JcwfNRLvhpQ.jpg",
+"photo_2560": "https://pp.userap...207/6zpwVZLP3s0.jpg",
+"width": 2560,
+"height": 1920,
+"text": "",
+"date": 1505140900,
+"access_key": "17b5ae001b0b144374"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271045,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 446376278,
+"photo_75": "https://pp.userap...e89/l62xkpRBSQI.jpg",
+"photo_130": "https://pp.userap...e8a/Psq1dxicGcQ.jpg",
+"photo_604": "https://pp.userap...e8b/kHbpgbjK5_Y.jpg",
+"photo_807": "https://pp.userap...e8c/qUcdbpyQiEM.jpg",
+"photo_1280": "https://pp.userap...e8d/LN39K51hquw.jpg",
+"photo_2560": "https://pp.userap...e8e/egcwK-qj_F8.jpg",
+"width": 1620,
+"height": 2160,
+"text": "",
+"date": 1505140900,
+"access_key": "4640db0c0d5ebefbbd"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271046,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 446376278,
+"photo_75": "https://pp.userap...073/ruYJHYtwqyQ.jpg",
+"photo_130": "https://pp.userap...074/fextK1d_AKs.jpg",
+"photo_604": "https://pp.userap...075/KvBCzmlNN-4.jpg",
+"photo_807": "https://pp.userap...076/UM47o9QAHE8.jpg",
+"photo_1280": "https://pp.userap...077/hp1qkIgFDJs.jpg",
+"photo_2560": "https://pp.userap...078/MnrBEyt7ra4.jpg",
+"width": 1620,
+"height": 2160,
+"text": "",
+"date": 1505140900,
+"access_key": "f65a9eb9b0be646403"
+}
+}],
+"post_source": {
+"type": "vk"
+},
+"comments": {
+"count": 0,
+"groups_can_post": true,
+"can_post": 1
+},
+"likes": {
+"count": 0,
+"user_likes": 0,
+"can_like": 1,
+"can_publish": 0
+},
+"reposts": {
+"count": 0,
+"user_reposted": 0
+}
+}, {
+"id": 52564,
+"from_id": 174787125,
+"owner_id": -34243230,
+"date": 1505137247,
+"marked_as_ads": 0,
+"post_type": "post",
+"text": "Москва и обл !!! 
+Начинаю искать семью для своей подопечной, вывезенной с пинского ада собаки. 
+Немецкая овчарка, возраст 3 г, кличка Найда. 
+Найда социализированная , отлично ходит на поводке(не таскает) , приучена к выгулу , в квартире не хулиганит, не грызет ничего, не прыгает по кроватям, не лает, не воет в ваше отсутствие. 
+Собака не агрессивная к людям, не облаивает никого на улице, к чужим собакам лояльна, отношение к котам неизвестно. 
+Найда очень умная, все понимает, умеет слушать, управляемая. 
+Отдаю в ответственные руки, рассматриваю пристройство в квартиру или частный дом., 
+СТРОГО не на охрану, не в будку или в вольер. 
+Звоните и приезжайте знакомиться , территориально мы находимся в Химках. 
+89167237888 Татьяна",
+"attachments": [{
+"type": "photo",
+"photo": {
+"id": 456240840,
+"album_id": -7,
+"owner_id": 174787125,
+"photo_75": "https://pp.userap...2bc/zLp6MctuXdw.jpg",
+"photo_130": "https://pp.userap...2bd/4nEA-Qk4CXc.jpg",
+"photo_604": "https://pp.userap...2be/2U9JKVrECKQ.jpg",
+"photo_807": "https://pp.userap...2bf/QPnt2AK0vwM.jpg",
+"photo_1280": "https://pp.userap...2c0/GmxRjNdAX6Q.jpg",
+"photo_2560": "https://pp.userap...2c1/RRJsgNUNdIk.jpg",
+"width": 960,
+"height": 1280,
+"text": "",
+"date": 1500809293,
+"access_key": "7baf195d86afa34d98"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456240836,
+"album_id": -7,
+"owner_id": 174787125,
+"photo_75": "https://pp.userap...294/fqCOzjFl-IE.jpg",
+"photo_130": "https://pp.userap...295/bZ0Dq__qWMc.jpg",
+"photo_604": "https://pp.userap...296/d8dEC8zKgM0.jpg",
+"photo_807": "https://pp.userap...297/phAsapL1_i8.jpg",
+"photo_1280": "https://pp.userap...298/BhgvjCO7X3k.jpg",
+"photo_2560": "https://pp.userap...299/Zk0LSG2Q3b4.jpg",
+"width": 960,
+"height": 1280,
+"text": "",
+"date": 1500809287,
+"access_key": "88398a5056b76393cf"
+}
+}],
+"post_source": {
+"type": "vk"
+},
+"comments": {
+"count": 0,
+"groups_can_post": true,
+"can_post": 1
+},
+"likes": {
+"count": 0,
+"user_likes": 0,
+"can_like": 1,
+"can_publish": 0
+},
+"reposts": {
+"count": 0,
+"user_reposted": 0
+}
+}, {
+"id": 52563,
+"from_id": 414046978,
+"owner_id": -34243230,
+"date": 1505133159,
+"marked_as_ads": 0,
+"post_type": "post",
+"text": "Samsung galaxy 2 3G (с разъемом под симку), wi-fi, 2 ядра, процессор TI OMAP4430 1000 МГц,видеопроцессор PowerVR SGX540 Сенсорный экран емкостный, мультитач, 7 дюймов, можно вставить флешку и многое другое. цена 4999р (кто срочно заберет, отдам за 4500). 
+Продаю в связи с покупкой более дорогой модели. Планшет в очень хорошем состоянии, почти не использовались, на улицу вообще не ношен, только дома, на стекле до сих пор пленка. Черного цвета. 
+г. Клин, вопросы в личку.",
+"attachments": [{
+"type": "photo",
+"photo": {
+"id": 456271041,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 414046978,
+"photo_75": "https://pp.userap...7ec/UgHJAE-7nFE.jpg",
+"photo_130": "https://pp.userap...7ed/drumxV4Axa8.jpg",
+"photo_604": "https://pp.userap...7ee/XfP_artJSjE.jpg",
+"photo_807": "https://pp.userap...7ef/1ET_-S0MtOw.jpg",
+"photo_1280": "https://pp.userap...7f0/X-Rben4gEAA.jpg",
+"width": 864,
+"height": 864,
+"text": "",
+"date": 1505133159,
+"post_id": 52563,
+"access_key": "ab2700d2504d2e9b0e"
+}
+}],
+"post_source": {
+"type": "vk"
+},
+"comments": {
+"count": 0,
+"groups_can_post": true,
+"can_post": 1
+},
+"likes": {
+"count": 0,
+"user_likes": 0,
+"can_like": 1,
+"can_publish": 0
+},
+"reposts": {
+"count": 0,
+"user_reposted": 0
+}
+}, {
+"id": 52560,
+"from_id": 2269806,
+"owner_id": -34243230,
+"date": 1505130398,
+"marked_as_ads": 0,
+"post_type": "post",
+"text": "Зимний комбинезон-трансформер BARKITO &#128077;74, по факту до 85 см . Состояние отличное , чистый, постиран, ребёнку удобно и тепло было в любой мороз . Цвет бежевый с розовым. 1600 руб. В подарок вещички и игрушки для малыша в отл.состоянии 
+Пишите в личку пожалуйста",
+"attachments": [{
+"type": "photo",
+"photo": {
+"id": 456271032,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 2269806,
+"photo_75": "https://pp.userap...601/m-zS_-NYkx8.jpg",
+"photo_130": "https://pp.userap...602/mHKc5I4AbuE.jpg",
+"photo_604": "https://pp.userap...603/2NkpAe68wNU.jpg",
+"photo_807": "https://pp.userap...604/IOGLp-uB5A0.jpg",
+"photo_1280": "https://pp.userap...605/Bq7AEEhnIio.jpg",
+"photo_2560": "https://pp.userap...606/TWKzgjA9xhA.jpg",
+"width": 828,
+"height": 1104,
+"text": "",
+"date": 1505130398,
+"access_key": "f1e5081b685c8cc82e"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271033,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 2269806,
+"photo_75": "https://pp.userap...a3a/1wh8B6EhppU.jpg",
+"photo_130": "https://pp.userap...a3b/dHGqKNYSUw4.jpg",
+"photo_604": "https://pp.userap...a3c/968vvb3qnS0.jpg",
+"photo_807": "https://pp.userap...a3d/F04i-x8PgqY.jpg",
+"photo_1280": "https://pp.userap...a3e/qCzt2rmEzzo.jpg",
+"photo_2560": "https://pp.userap...a3f/wfJD2PyxFjA.jpg",
+"width": 1380,
+"height": 1035,
+"text": "",
+"date": 1505130398,
+"access_key": "60ef5e06baa7aa0d62"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271034,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 2269806,
+"photo_75": "https://pp.userap...b13/EphX5WnSMRA.jpg",
+"photo_130": "https://pp.userap...b14/-boKBoZfekc.jpg",
+"photo_604": "https://pp.userap...b15/qsgbApbc39I.jpg",
+"photo_807": "https://pp.userap...b16/VSlZzFaIqMM.jpg",
+"photo_1280": "https://pp.userap...b17/Q6N8yAa5yoQ.jpg",
+"width": 828,
+"height": 1070,
+"text": "",
+"date": 1505130398,
+"access_key": "c2b8c7a914058d4866"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271035,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 2269806,
+"photo_75": "https://pp.userap...336/FX2riBNdI9k.jpg",
+"photo_130": "https://pp.userap...337/aVZoMqN-wpQ.jpg",
+"photo_604": "https://pp.userap...338/C-lnwuy-Ndo.jpg",
+"photo_807": "https://pp.userap...339/tKJC7jCca8Y.jpg",
+"photo_1280": "https://pp.userap...33a/KHPMcpMWIHk.jpg",
+"photo_2560": "https://pp.userap...33b/8HnTpV4vHz4.jpg",
+"width": 563,
+"height": 1104,
+"text": "",
+"date": 1505130398,
+"access_key": "bf218be3ff4c6512a7"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271036,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 2269806,
+"photo_75": "https://pp.userap...8c7/zvCD50_DquU.jpg",
+"photo_130": "https://pp.userap...8c8/rr9F1RCwp_8.jpg",
+"photo_604": "https://pp.userap...8c9/-lumcGNlY_M.jpg",
+"photo_807": "https://pp.userap...8ca/pkbfuRjJB0w.jpg",
+"photo_1280": "https://pp.userap...8cb/05hQTGH5vf8.jpg",
+"photo_2560": "https://pp.userap...8cc/Wf3DQhzCrYY.jpg",
+"width": 1035,
+"height": 1230,
+"text": "",
+"date": 1505130398,
+"access_key": "ad1d75cfe90cd8ee43"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271037,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 2269806,
+"photo_75": "https://pp.userap...fc8/8kKNHBK3qwI.jpg",
+"photo_130": "https://pp.userap...fc9/_kiAFi1NLGI.jpg",
+"photo_604": "https://pp.userap...fca/nTrrvTb5r6E.jpg",
+"photo_807": "https://pp.userap...fcb/POaeJ-Rw-Ok.jpg",
+"photo_1280": "https://pp.userap...fcc/61Ulv1Sj8nQ.jpg",
+"photo_2560": "https://pp.userap...fcd/F_A71eM6jZg.jpg",
+"width": 1035,
+"height": 1248,
+"text": "",
+"date": 1505130398,
+"access_key": "930c763c32c4671f39"
+}
+}, {
+"type": "photo",
+"photo": {
+"id": 456271038,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 2269806,
+"photo_75": "https://pp.userap...1e8/-vj6q9qgLIw.jpg",
+"photo_130": "https://pp.userap...1e9/xixRpQIIW4Q.jpg",
+"photo_604": "https://pp.userap...1ea/WTZOEETiIms.jpg",
+"photo_807": "https://pp.userap...1eb/M8esTUuEFuo.jpg",
+"photo_1280": "https://pp.userap...1ec/_nNJCdHTexY.jpg",
+"photo_2560": "https://pp.userap...1ed/OZ9vyQK-Jlk.jpg",
+"width": 1380,
+"height": 1035,
+"text": "",
+"date": 1505130398,
+"access_key": "d4c6c664f7786fb94a"
+}
+}],
+"post_source": {
+"type": "api",
+"platform": "android"
+},
+"comments": {
+"count": 0,
+"groups_can_post": true,
+"can_post": 1
+},
+"likes": {
+"count": 0,
+"user_likes": 0,
+"can_like": 1,
+"can_publish": 0
+},
+"reposts": {
+"count": 0,
+"user_reposted": 0
+}
+}, {
+"id": 52559,
+"from_id": 5171133,
+"owner_id": -34243230,
+"date": 1505129719,
+"marked_as_ads": 0,
+"post_type": "post",
+"text": "Microlab fc530
+2.1 в идеальном состоянии. В комплекте пульт ДУ. Возможен небольшой торг. Причина продажи, покупка новой акустики
+3490р.",
+"attachments": [{
+"type": "photo",
+"photo": {
+"id": 456271031,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 5171133,
+"photo_75": "https://pp.userap...c8b/f7NImQYADmA.jpg",
+"photo_130": "https://pp.userap...c8c/wadwOX948lk.jpg",
+"photo_604": "https://pp.userap...c8d/aRSKiMIhAjE.jpg",
+"photo_807": "https://pp.userap...c8e/Nre-yJ-MIRk.jpg",
+"width": 800,
+"height": 800,
+"text": "",
+"date": 1505129719,
+"post_id": 52559,
+"access_key": "894b2fc8ef7c70263f"
+}
+}],
+"post_source": {
+"type": "api",
+"platform": "android"
+},
+"comments": {
+"count": 0,
+"groups_can_post": true,
+"can_post": 1
+},
+"likes": {
+"count": 0,
+"user_likes": 0,
+"can_like": 1,
+"can_publish": 0
+},
+"reposts": {
+"count": 0,
+"user_reposted": 0
+}
+}, {
+"id": 52555,
+"from_id": 2783757,
+"owner_id": -34243230,
+"date": 1505122610,
+"marked_as_ads": 0,
+"post_type": "post",
+"text": "Служба доставки пиццы и суши Лаки Кинг приглашает к сотрудничеству Курьеров на личном Авто и Администраторов службы доставки и кафе. 
+
+ВАКАНСИЯ: Курьер на своем автомобиле. 
+
+График: Полный рабочий день (с 11 до 24 часов) / неполный рабочий день (с 17 до 24 часов) 
+• Заработная плата: от 35000 руб. полный рабочий день, от 23000 руб. неполный рабочий день. 
+• Оплата бензина и мобильной связи. 
+• Суббота, праздничные и предпраздничные - ОБЯЗАТЕЛЬНО РАБОЧИЙ ДЕНЬ. 
+
+Обязанности: 
+Осуществление доставки пиццы и суши по Зеленограду и окрестностям (Менделеево, Ржавки, Голубое, Андреевка, Алабушево, Брехово, Поварово). 
+
+Требования: 
+• Наличие личного автомобиля. 
+• Водительские права категории В. 
+• Знание района доставки ОБЯЗАТЕЛЬНО. 
+• Рабочий день в субботу, праздничные и предпраздничные дни обязателен! 
+
+
+Вакансия: Администратор службы доставки и кафе. 
+
+• График работы 5/2. Плавающие выходные. 
+• Трудоустройство в соответствии с ТК РФ 
+• Питание предоставляется компанией 
+• Перспективы карьерного роста. Дружный коллектив! 
+
+Обязанности: 
+• Контроль работы персонала - повара/курьеры 
+• Обучение сотрудников 
+• Контроль соблюдения стандартов компании 
+• Проведение инвентаризаций 
+• Обслуживание гостей в зале 
+• Прием заказов на доставку 
+• Работа с кассой 
+• Контроль соблюдение санитарных норм и гигиены в помещении 
+• Поддержание чистоты на своем рабочем месте (полы, протирание пыли и т.д.) 
+
+Требования: 
+• Ответственный подход к работе 
+• Опыт работы в ресторанном бизнесе от полугода (желательно, в административной должности), предпочтительно сетевой пиццерии/суши-бар/фаст-фуд 
+• Активность‚ внимательность‚ аккуратность 
+• ПК - уверенный пользователь 
+• Грамотная русская речь 
+• Нацеленность на результат 
+• Навыки наставничества 
+• Наличие медицинской книжки 
+• Желание работать в команде и зарабатывать! 
+
+Контакты: 
+Контактное лицо: Максим 
+Телефон: +79263087983 
+E-mail: Auditcafe@yandex.ru",
+"attachments": [{
+"type": "photo",
+"photo": {
+"id": 456271029,
+"album_id": -8,
+"owner_id": -34243230,
+"user_id": 2783757,
+"photo_75": "https://pp.userap...039/CXb0wTfXln8.jpg",
+"photo_130": "https://pp.userap...03a/hZLvVDinGtg.jpg",
+"photo_604": "https://pp.userap...03b/D_koCwjtBlM.jpg",
+"photo_807": "https://pp.userap...03c/6kFRHMY_8W4.jpg",
+"photo_1280": "https://pp.userap...03d/Ib0sVHwLjU0.jpg",
+"width": 1000,
+"height": 709,
+"text": "",
+"date": 1505122609,
+"post_id": 52555,
+"access_key": "132b609650f805b9ba"
+}
+}],
+"post_source": {
+"type": "vk"
+},
+"comments": {
+"count": 0,
+"groups_can_post": true,
+"can_post": 1
+},
+"likes": {
+"count": 0,
+"user_likes": 0,
+"can_like": 1,
+"can_publish": 0
+},
+"reposts": {
+"count": 0,
+"user_reposted": 0
+}
+}, {
+"id": 52551,
+"from_id": 50159103,
+"owner_id": -34243230,
+"date": 1505117506,
+"marked_as_ads": 0,
+"post_type": "post",
+"text": "Продаю или меняю на что нибудь УАЗ каблук на отличном ходу. Не давно перебран мотор, новое сцепление, помпа, колеса. Работает отлично, прет как танк. Блокированный задний мост. Док нет. Цена 60000 или обмен.",
+"attachments": [{
+"type": "doc",
+"doc": {
+"id": 450231692,
+"owner_id": 50159103,
+"title": "20170911_111015.jpg",
+"size": 1010246,
+"ext": "jpg",
+"url": "https://vk.com/do...=1&no_preview=1",
+"date": 1505117503,
+"type": 4,
+"preview": {
+"photo": {
+"sizes": [{
+"src": "https://cs540100....-3/m_2c2ccb906b.jpg",
+"width": 130,
+"height": 100,
+"type": "m"
+}, {
+"src": "https://cs540100....-3/s_2c2ccb906b.jpg",
+"width": 100,
+"height": 75,
+"type": "s"
+}, {
+"src": "https://cs540100....-3/x_2c2ccb906b.jpg",
+"width": 604,
+"height": 604,
+"type": "x"
+}, {
+"src": "https://cs540100....-3/y_2c2ccb906b.jpg",
+"width": 807,
+"height": 807,
+"type": "y"
+}, {
+"src": "https://cs540100....-3/z_2c2ccb906b.jpg",
+"width": 1280,
+"height": 1280,
+"type": "z"
+}, {
+"src": "https://cs540100....-3/o_2c2ccb906b.jpg",
+"width": 2896,
+"height": 2896,
+"type": "o"
+}]
+}
+},
+"access_key": "2b3813b2ef90000233"
+}
+}],
+"post_source": {
+"type": "api",
+"platform": "android"
+},
+"comments": {
+"count": 0,
+"groups_can_post": true,
+"can_post": 1
+},
+"likes": {
+"count": 1,
+"user_likes": 0,
+"can_like": 1,
+"can_publish": 0
+},
+"reposts": {
+"count": 0,
+"user_reposted": 0
+}
+}]
+}
+}
