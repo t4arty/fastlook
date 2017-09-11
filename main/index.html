@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../style/style.css">
+    <script lang="Javascript" src="../libs/jquery.min.js"></script>
+    <title>Fast Look 2</title>
+</head>
+
+<body>
+    <div style="display:inline-block; text-align:center;width:100%;">
+        <p class="exp">Text input here</p>
+        <p class="exp2">Text 2</p>
+    </div>
+    <script>
+        /* #access_token=265069ac58baa08f1cc19e3574b4353350a973508a3dfd3e96bfce63e6e0c5c23912780b183045363375a&expires_in=86400&user_id=2760402 */
+        var tokenID = 'ffc6a497f4d7400c609689562ddc7206089650130c820106b775e48947c8a0226c7ed3817d3844ad4ff85';
+        var app_id = '6173339';
+        $.post({
+            url: 'https://api.vk.com/method/wall.get',
+            data: {
+                domain: 'baraxolkazel',
+                offset: 0,
+                count: 20,
+                v: '5.68',
+                access_token: tokenID
+            },
+            dataType: 'jsonp',
+            success: function(result) {
+                return callbacks(result);
+            }
+        });
+        var res;
+        var imgArray = [];
+
+        function callbacks(omg) {
+            res = omg;
+            $('.exp2').text(res.response.items[1]);
+            console.log(res.response.items);
+        }
+    </script>
+
+</body>
+
+</html>
